@@ -13,3 +13,4 @@ Great Frontend is an awesome platform for honing front-end interview skills, off
 Here, you'll find my solutions organized by topic. Each includes the problem link and detailed code with comments for clarity. 📝🔗
 
 - **Array.prototype.filter**: Check out [Array.prototype.filter.ts](Array.prototype.filter.ts) for my solution, linked to the problem at [Great Frontend](https://www.greatfrontend.com/interviews/study/three-months/questions/javascript/array-filter). It implements a custom filter function with TypeScript. 🛠️
+- **Debounce Function**: Check out [Debounce.ts](Debounce.ts) for my solution, which implements a debounce function in TypeScript. 🛠️
